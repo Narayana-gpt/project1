@@ -1,3 +1,3 @@
 # project1
-student info project
+student info project<br>
 students name and Reg no
